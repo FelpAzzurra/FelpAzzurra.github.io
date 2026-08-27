@@ -1,1 +1,31 @@
+[METADATA]
+modified = 2026-08-27T00:00:00.000Z
 
+[[ACCOUNTS]]
+address = "rnZL3Tbx3vXEH71Hz8zH3L732pRcNk7nm8"
+network = "main"
+desc = "Issuing account for the XA3 token on the XRP Ledger."
+
+[[CURRENCIES]]
+code = "XA3"
+issuer = "rnZL3Tbx3vXEH71Hz8zH3L732pRcNk7nm8"
+network = "main"
+
+[[ISSUERS]]
+address = "rnZL3Tbx3vXEH71Hz8zH3L732pRcNk7nm8"
+name = "XA3"
+desc = "Issuer of the XA3 token on the XRP Ledger."
+icon = "https://felpazzurra.github.io/XA3-PORTAL/xa3-logo.png"
+
+[[TOKENS]]
+issuer = "rnZL3Tbx3vXEH71Hz8zH3L732pRcNk7nm8"
+currency = "XA3"
+name = "XA3"
+desc = "XA3 is a token issued on the XRP Ledger and used within the XA3 ecosystem."
+icon = "https://felpazzurra.github.io/XA3-PORTAL/xa3-logo.png"
+asset_class = "other"
+
+[[TOKENS.URLS]]
+url = "https://felpazzurra.github.io/XA3-PORTAL/"
+type = "website"
+title = "XA3 Official Website"
