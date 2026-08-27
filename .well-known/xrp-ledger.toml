@@ -25,7 +25,7 @@ desc = "XA3 is a token issued on the XRP Ledger and used within the XA3 ecosyste
 icon = "https://felpazzurra.github.io/XA3-PORTAL/xa3-logo.png"
 asset_class = "other"
 
-[[TOKENS.URLS]]
+[[TOKENS.WEBLINKS]]
 url = "https://felpazzurra.github.io/XA3-PORTAL/"
 type = "website"
 title = "XA3 Official Website"
