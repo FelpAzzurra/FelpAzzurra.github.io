@@ -1,0 +1,40 @@
+XA3 — STRUTTURA ROOT GITHUB PAGES
+
+Crea su GitHub un repository PUBBLICO chiamato ESATTAMENTE:
+FelpAzzurra.github.io
+
+Dentro il repository devono risultare questi file:
+
+/
+├── index.html
+├── .nojekyll
+└── .well-known/
+    └── xrp-ledger.toml
+
+NON caricare il file ZIP direttamente su GitHub.
+Prima estrai il contenuto dello ZIP e carica i file mantenendo la struttura.
+
+URL finali da verificare:
+
+ROOT:
+https://felpazzurra.github.io/
+
+METADATA XRPL:
+https://felpazzurra.github.io/.well-known/xrp-ledger.toml
+
+LOGO XA3:
+https://felpazzurra.github.io/XA3-PORTAL/xa3-logo.png
+
+SITO XA3:
+https://felpazzurra.github.io/XA3-PORTAL/
+
+ISSUER XA3:
+rnZL3Tbx3vXEH71Hz8zH3L732pRcNk7nm8
+
+NOTA:
+Il file index.html rimanda automaticamente al portale XA3 già esistente.
+Il file .nojekyll serve a far pubblicare correttamente anche la directory .well-known.
+
+Dopo che il file TOML è online, il passo successivo è verificare/impostare
+il campo Domain dell'account issuer XRPL in modo che corrisponda a:
+felpazzurra.github.io
