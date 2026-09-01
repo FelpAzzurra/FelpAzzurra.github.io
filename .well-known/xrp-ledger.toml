@@ -19,14 +19,14 @@ network = "main"
 address = "rnZL3Tbx3vXEH71Hz8zH3L732pRcNk7nm8"
 name = "XA3"
 desc = "Issuer of the XA3 utility token on the XRP Ledger."
-icon = "https://felpazzurra.github.io/XA3-PORTAL/xa3-logo-v3.png"
+icon = "https://felpazzurra.github.io/XA3-PORTAL/XA3_LOGO_TRANSPARENT.png"
 
 [[TOKENS]]
 issuer = "rnZL3Tbx3vXEH71Hz8zH3L732pRcNk7nm8"
 currency = "XA3"
 name = "XA3"
 desc = "XA3 is an XRP Ledger utility token used to access features and services within the XA3 ecosystem."
-icon = "https://felpazzurra.github.io/XA3-PORTAL/xa3-logo-v3.png"
+icon = "https://felpazzurra.github.io/XA3-PORTAL/XA3_LOGO_TRANSPARENT.png"
 asset_class = "other"
 
 [[TOKENS.URLS]]
